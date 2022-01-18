@@ -26,7 +26,7 @@ Try to be pragmatic in your refactoring, keep it as simple as possible and try t
 
 ### Clone the Repository
 ``
-gh repo clone AlterianCX/refactoring-exercise-c#
+gh repo clone AlterianCX/refactoring-exercise-csharp
 ``
 ### Install the Visual Studio Code
 
