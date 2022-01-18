@@ -1,0 +1,12 @@
+E:\source\qa-auto-exercise\RefactoringExercise\obj\Debug\net6.0\RefactoringExercise.csproj.AssemblyReference.cache
+E:\source\qa-auto-exercise\RefactoringExercise\obj\Debug\net6.0\RefactoringExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\qa-auto-exercise\RefactoringExercise\obj\Debug\net6.0\RefactoringExercise.AssemblyInfoInputs.cache
+E:\source\qa-auto-exercise\RefactoringExercise\obj\Debug\net6.0\RefactoringExercise.AssemblyInfo.cs
+E:\source\qa-auto-exercise\RefactoringExercise\obj\Debug\net6.0\RefactoringExercise.csproj.CoreCompileInputs.cache
+E:\source\qa-auto-exercise\RefactoringExercise\bin\Debug\net6.0\RefactoringExercise.deps.json
+E:\source\qa-auto-exercise\RefactoringExercise\bin\Debug\net6.0\RefactoringExercise.dll
+E:\source\qa-auto-exercise\RefactoringExercise\bin\Debug\net6.0\ref\RefactoringExercise.dll
+E:\source\qa-auto-exercise\RefactoringExercise\bin\Debug\net6.0\RefactoringExercise.pdb
+E:\source\qa-auto-exercise\RefactoringExercise\obj\Debug\net6.0\RefactoringExercise.dll
+E:\source\qa-auto-exercise\RefactoringExercise\obj\Debug\net6.0\ref\RefactoringExercise.dll
+E:\source\qa-auto-exercise\RefactoringExercise\obj\Debug\net6.0\RefactoringExercise.pdb
