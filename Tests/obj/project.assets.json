@@ -6225,11 +6225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\source\\qa-auto-exercise\\Tests\\Tests.csproj",
+      "projectUniqueName": "e:\\source\\qa-auto-exercise\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "E:\\source\\qa-auto-exercise\\Tests\\Tests.csproj",
+      "projectPath": "e:\\source\\qa-auto-exercise\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-      "outputPath": "E:\\source\\qa-auto-exercise\\Tests\\obj\\",
+      "outputPath": "e:\\source\\qa-auto-exercise\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6244,8 +6244,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\source\\qa-auto-exercise\\RefactoringExercise\\RefactoringExercise.csproj": {
-              "projectPath": "E:\\source\\qa-auto-exercise\\RefactoringExercise\\RefactoringExercise.csproj"
+            "e:\\source\\qa-auto-exercise\\RefactoringExercise\\RefactoringExercise.csproj": {
+              "projectPath": "e:\\source\\qa-auto-exercise\\RefactoringExercise\\RefactoringExercise.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9mVbuO3gug+xlC+givDaoXLKn7Du3ik4YR9xEMv+RAJcULuhvbdjAtvsE2h51a/LWYVCkX8qC4A31SbYcMzlxA==",
+  "dgSpecHash": "IrWn9pVkMsbOIPemh3nJyQ16xt/+h2qvonFdKBatvWlY29Bl5vvp8OahDy/2R5OM3dae/Fw58WaExluepgwjDw==",
   "success": true,
-  "projectFilePath": "E:\\source\\qa-auto-exercise\\Tests\\Tests.csproj",
+  "projectFilePath": "e:\\source\\qa-auto-exercise\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chris\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

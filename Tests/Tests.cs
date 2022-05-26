@@ -12,7 +12,7 @@ public class Tests
     {
         Assert.AreEqual(1,1);
     }
-
+    [TestMethod]
     public void TestSutieCanReferenceCode()
     {
         AClass testClass = new AClass();
